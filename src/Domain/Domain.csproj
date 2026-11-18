@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Authors>Pratik Sheth</Authors>
+    <Description>Domain layer of a Clean Architecture sample API, built by Pratik Sheth.</Description>
+  </PropertyGroup>
+
+</Project>
